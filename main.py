@@ -5,7 +5,6 @@ num2 = float(input("Number 2?"))
 op = input("Operator? Choose between +, -, * and /")
 
 
-
 def add(x, y):
     return x + y
 
