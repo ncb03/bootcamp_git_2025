@@ -1,3 +1,5 @@
+print("Hello User")
+
 num1 = float(input("Number1?"))
 num2 = float(input("Number 2?"))
 op = input("Operator? Choose between +, -, * and /")
@@ -25,3 +27,4 @@ def div(x, y):
 
 if __name__ == '__main__':
     main()
+
